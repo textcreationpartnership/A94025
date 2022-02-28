@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange news from West-Smithfield, or, The Man-child of Manchester being a true and impartial account of the prodigious knowledge and elocution of a male-infant, of three years of age, newly brought up to the Bear-Inn in Smithfield ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94025</idno>
+            <idno type="STC">Wing S5913</idno>
+            <idno type="STC">ESTC R42991</idno>
+            <idno type="EEBO-CITATION">38876077</idno>
+            <idno type="OCLC">ocm 38876077</idno>
+            <idno type="VID">152433</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94025)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152433)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2296:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange news from West-Smithfield, or, The Man-child of Manchester being a true and impartial account of the prodigious knowledge and elocution of a male-infant, of three years of age, newly brought up to the Bear-Inn in Smithfield ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[S.l.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year, 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bennet, Charles, b. 1675 or 6.</term>
+               <term>Gifted children --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152433:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>STRANGE NEWS FROM weſt-Smithfield OR, THE MAN-CHILD OF MANCHESTER: BEING A true and impartial Account of the prodigious Knowledge and Elocution of a Male-Infant, of three years of age, newly brought up to the Bear-Inn in <hi>Smithfield;</hi> who at his firſt ſpeaking, corrected his Father as he was reading in the Bible, and at the ſame time diſcovered his ability to diſcourſe in La<g ref="char:EOLhyphen"/>tine, Greek, and Hebrew, together with his de<g ref="char:EOLhyphen"/>ſire of ſeeing his Majeſty, to whom he had three words to ſpeak.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1679.</p>
+            <pb facs="tcp:152433:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <pb facs="tcp:152433:2"/>
+            <!-- PDF PAGE 26 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152433:3"/>
+            <!-- PDF PAGE 27 -->
+            <pb facs="tcp:152433:3"/>
+            <!-- PDF PAGE 27 -->
+            <head>THE Man-Childe OF MANCHESTER, BEING A true and Impartial Actount of the Prodigious Knowledg and Elocution of a Male-Infant of three years of Age, newly brought up to the <hi>Bear-Inn</hi> in <hi>Weſt-Smithfield.</hi>
+            </head>
+            <p>SO Miraculous is the enſuing Narrative, that perhaps, it will ſcarce meet with Belief enough to entertain it, among thoſe at leaſt, who are unwilling to believe
+<pb n="4" facs="tcp:152433:4"/>
+               <!-- PDF PAGE 28 -->any other Deity than Nature: Yet ſuch is the Truth of the Contents, and ſo lively an Inſtance is it of an Omnipotencey, that we ſhould be injurious to the enſuing Ages, if we ſhould not tranſmit the preſent Account to Poſterity. The whole of the Truth is this, That <hi>Charles</hi> the Son of <hi>Philip Bennet,</hi> of <hi>Mancheſter</hi> in <hi>Lancaſhire,</hi> who was born about the middle of <hi>June,</hi> which was in the year of our Lord God 1676. was by his Parents looked upon ever ſince as a Child of no more than ordinary Capacity; his forwardneſs and the Endowments of Nature appeared in him not ſo great as to be admired, nor ſo mean as to be repined at; Nor was there any obſerva<g ref="char:EOLhyphen"/>tion to be made of extraordinay Maturity in the Child, till about a Month or two ago, when his Father being according to his uſual and commendable Cuſtome, Reading to his Fami<g ref="char:EOLhyphen"/>ly in the Bible, and indeed miſreciting one Sentence, the Child of a ſudden broke out in<g ref="char:EOLhyphen"/>to theſe words: Father you read wrong, for it is not ſo in the Scripture; whereat the Fa<g ref="char:EOLhyphen"/>ther being wrapt in Amazement, as well he might, having never heard the Child ſpeak before) began, after ſome Recollection of
+<pb n="5" facs="tcp:152433:4"/>
+               <!-- PDF PAGE 28 -->himſelf, to examine the place of Scripture which he had then read in the Childs hearing, and found (accor<g ref="char:EOLhyphen"/>ding to the Childs words) that it was otherwiſe writ<g ref="char:EOLhyphen"/>ren than he had read it. Hereupon his wonder encreaſ<g ref="char:EOLhyphen"/>ed, and he asked the Child how he could know what was in the Bible, who replied, he not only had it in his Memory, but that could read it in the Bible, not on<g ref="char:EOLhyphen"/>ly in <hi>Engliſh</hi> but <hi>Latine,</hi> and further told his Father, that he could ſpeak <hi>Greek</hi> and <hi>Hebrew,</hi> and after all ad<g ref="char:EOLhyphen"/>ded, that he had three words which he muſt ſpeak to the King. Hereupon the Parents as ſoon they could raiſe money to bring them up, cauſed the Child to be brought up by one Mr. <hi>Baſs</hi> the younger, Carrier of <hi>Tamworth</hi> in <hi>warwick</hi>-ſhire, who lodges at the <hi>Bear</hi> and <hi>Ragged Staff</hi> in <hi>Weſt-Smithfield,</hi> who thither brought the Child on <hi>Saturday</hi> the 28th day of this inſtant <hi>June,</hi> where Innumerable multitudes came on <hi>Saturday</hi> night and all <hi>Sunday,</hi> to ſee this Child, and hear him ſpeak, where ſeveral of good Quality ob<g ref="char:EOLhyphen"/>tained the favour of the houſe, and not only ſaw the Child, but diſcourſed with him, and upon Examinati<g ref="char:EOLhyphen"/>on, found that he made very ready and appoſite An<g ref="char:EOLhyphen"/>ſwers to ſeveral Queſtions which they asked him, as well in <hi>Latine</hi> and <hi>Greek,</hi> as in <hi>Engliſh.</hi> The Child is very ſmall for his Age, of a round Viſage, and black brown Hair: his Father is a Linnen-weaver in <hi>Man<g ref="char:EOLhyphen"/>cheſter,</hi> but of low Fortune, therefore whereas it is ob<g ref="char:EOLhyphen"/>jected by ſome, that his Father might have been uſed to repeat ſeveral Sentences of <hi>Latine</hi> and <hi>Greek</hi> in the Childs hearing, and thereby <hi>(Pſiitacimore)</hi> the Child might learn to pronounce them, we have reaſon to be<g ref="char:EOLhyphen"/>lieve the contrary, in regard that one of ſo mean Ed<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cation
+<pb n="6" facs="tcp:152433:5"/>
+               <!-- PDF PAGE 29 -->and inferiour Calling, could hardly be capable of teaching another in thoſe Languages of which it is ſtrongly to be preſumed that he himſelf was ignorant.</p>
+            <p>This Child perſiſted all <hi>Sunday</hi> in Expreſſions of his earneſt deſire to ſee the King, and ſpeak his three Words to him, <hi>after which,</hi> (ſaid the Child) <hi>I ſhall live but nine Days, and they being finiſhed, I expect to dye.</hi>
+            </p>
+            <p>His Majeſty having Information hereof was pleas'd this <hi>Monday</hi> Morn<g ref="char:EOLhyphen"/>ing to ſend his Meſſenger for the Child, who from the <hi>Bear-Inn</hi> im<g ref="char:EOLhyphen"/>mediately carried the Child away in a Coach to <hi>White-Hall,</hi> and though His Majeſty had intended this Day to have gone to <hi>Windſor,</hi> yet 'tis ſaid he deferr'd the ſame till to Morrow; and (its thought by many) upon this very occaſion, as being deſirous <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o hear what the Child had to ſay to <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im.</p>
+            <p>
+               <pb n="7" facs="tcp:152433:5"/>
+               <!-- PDF PAGE 29 -->
+Several People have endeavoured to tempt the Child with Money to impart to them what words he has to ſay to the King, but the Child re<g ref="char:EOLhyphen"/>fuſes to diſcloſe it to any, nay even to his own Father. Nor will the Child accept of either Silver of Gold from any upon whatſoever Account it be offered to him; and if any one chance to thruſt it into his hand, he ſtraight<g ref="char:EOLhyphen"/>way throws it over his Head, in To<g ref="char:EOLhyphen"/>ken of his Contempt of their Offers; but the Parents however are not of the ſame mind in that, but retain whatever any ſhall freely preſent them with, as knowing that their Circumſtances in the World are low, and that the curioſity of others may without injuſtice be expected to de<g ref="char:EOLhyphen"/>fray the Expences of their Journey up to <hi>London.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:152433:6"/>
+               <!-- PDF PAGE 30 -->
+The Child is very remarkable for the quickneſs of his Eye, which ſhews as if it were tranſparent, and darts a piercing and ſprightly Ray upon all things. The Parents, be<g ref="char:EOLhyphen"/>tween Love and Fear, know not what to think of their Child, nor how to demean themſelves towards it; one while his early and extraor<g ref="char:EOLhyphen"/>dinary Maturity gives them hope of Gain and Preferment; another while it raiſes their fear of looſing their Child, whoſe extraordinary Quali<g ref="char:EOLhyphen"/>fications hath engaged their extraor<g ref="char:EOLhyphen"/>dinary love, and the more does the fear of looſing him oppreſs them, in that the Child ſo particularly points out the number of the days of his life after his 3 words ſpoken.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152433:6"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
